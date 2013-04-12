@@ -1,0 +1,446 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../Prosmotr_profilya_kompanii_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:28px;
+    top:153px;
+    width:896px;
+    height:583px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:902px;
+    height:589px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:284px;
+    width:892px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_container {
+    position:absolute;
+    left:28px;
+    top:24px;
+    width:181px;
+    height:61px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:181px;
+    height:61px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:177px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:60px;
+    top:204px;
+    width:494px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5 {
+    position:absolute;
+    left:362px;
+    top:282px;
+    width:262px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:53px;
+    top:307px;
+    width:262px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:53px;
+    top:409px;
+    width:262px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:53px;
+    top:169px;
+    width:262px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../Prosmotr_profilya_kompanii_files/u9_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:315px;
+    top:169px;
+    width:103px;
+    height:114px;
+}
+
+#u9_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:103px;
+    height:114px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:49px;
+    width:99px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:53px;
+    top:357px;
+    width:262px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:53px;
+    top:623px;
+    width:262px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:262px;
+    top:45px;
+    width:655px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:300px;
+    top:416px;
+    width:495px;
+    height:112px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 14px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+#u15 {
+    position:absolute;
+    left:300px;
+    top:663px;
+    width:500px;
+    height:70px
+}
+
+.u16_normal {
+    background-image: url('../Prosmotr_profilya_kompanii_files/u16_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:123px;
+    height:36px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:129px;
+    height:42px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:119px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../Prosmotr_profilya_kompanii_files/u18_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:123px;
+    top:0px;
+    width:372px;
+    height:36px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:378px;
+    height:42px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:368px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../Prosmotr_profilya_kompanii_files/u20_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:0px;
+    top:36px;
+    width:123px;
+    height:29px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:129px;
+    height:35px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:119px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../Prosmotr_profilya_kompanii_files/u22_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:123px;
+    top:36px;
+    width:372px;
+    height:29px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:378px;
+    height:35px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:368px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:834px;
+    top:699px;
+    width:28px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 16px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u25 {
+    position:absolute;
+    left:873px;
+    top:699px;
+    width:28px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 16px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u26 {
+    position:absolute;
+    left:53px;
+    top:551px;
+    width:262px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

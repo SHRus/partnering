@@ -1,0 +1,580 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../Organizaziya_Vstrech_-_poisk_po_uchastniku_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:28px;
+    top:109px;
+    width:236px;
+    height:44px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:242px;
+    height:50px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:232px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../Organizaziya_Vstrech_-_poisk_po_uchastniku_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:28px;
+    top:153px;
+    width:1090px;
+    height:587px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1096px;
+    height:593px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:286px;
+    width:1086px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_container {
+    position:absolute;
+    left:28px;
+    top:24px;
+    width:181px;
+    height:61px;
+}
+
+#u4_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:181px;
+    height:61px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:177px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:262px;
+    top:45px;
+    width:655px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:60px;
+    top:204px;
+    width:494px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../Organizaziya_Vstrech_-_poisk_po_uchastniku_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:60px;
+    top:182px;
+    width:801px;
+    height:61px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:807px;
+    height:67px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:21px;
+    width:797px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../Organizaziya_Vstrech_-_poisk_po_uchastniku_files/u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:60px;
+    top:314px;
+    width:1003px;
+    height:396px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1009px;
+    height:402px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:190px;
+    width:999px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:92px;
+    top:338px;
+    width:262px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:311px;
+    top:338px;
+    width:288px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 16px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u14 {
+    position:absolute;
+    left:362px;
+    top:282px;
+    width:262px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../Organizaziya_Vstrech_-_poisk_po_uchastniku_files/u15_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:60px;
+    top:272px;
+    width:214px;
+    height:42px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:220px;
+    height:48px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:210px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../Organizaziya_Vstrech_-_poisk_po_uchastniku_files/u17_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:294px;
+    top:273px;
+    width:214px;
+    height:42px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:220px;
+    height:48px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:210px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19 {
+    position:absolute;
+    left:92px;
+    top:410px;
+    width:202px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20 {
+    position:absolute;
+    left:232px;
+    top:484px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 16px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u21 {
+    position:absolute;
+    left:311px;
+    top:410px;
+    width:289px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 16px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u22 {
+    position:absolute;
+    left:92px;
+    top:608px;
+    width:496px;
+    height:75px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23 {
+    position:absolute;
+    left:92px;
+    top:554px;
+    width:369px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../Organizaziya_Vstrech_-_poisk_po_uchastniku_files/u24_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:529px;
+    top:109px;
+    width:236px;
+    height:44px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:242px;
+    height:50px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:232px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_normal {
+    background-image: url('../Organizaziya_Vstrech_-_poisk_po_uchastniku_files/u24_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:775px;
+    top:109px;
+    width:236px;
+    height:44px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:242px;
+    height:50px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:232px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../Organizaziya_Vstrech_-_poisk_po_uchastniku_files/u24_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:283px;
+    top:109px;
+    width:236px;
+    height:44px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:242px;
+    height:50px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:232px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../Organizaziya_Vstrech_-_poisk_po_uchastniku_files/u15_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:529px;
+    top:271px;
+    width:214px;
+    height:42px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:220px;
+    height:48px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:210px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_normal {
+    background-image: url('../Organizaziya_Vstrech_-_poisk_po_uchastniku_files/u15_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:763px;
+    top:272px;
+    width:214px;
+    height:42px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:220px;
+    height:48px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:210px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

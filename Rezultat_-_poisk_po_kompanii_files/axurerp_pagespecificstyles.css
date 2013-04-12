@@ -1,0 +1,718 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../Rezultat_-_poisk_po_kompanii_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:28px;
+    top:109px;
+    width:236px;
+    height:44px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:242px;
+    height:50px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:232px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../Rezultat_-_poisk_po_kompanii_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:28px;
+    top:153px;
+    width:1144px;
+    height:345px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1150px;
+    height:351px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:164px;
+    width:1140px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_container {
+    position:absolute;
+    left:28px;
+    top:24px;
+    width:181px;
+    height:61px;
+}
+
+#u4_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:181px;
+    height:61px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:177px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:262px;
+    top:45px;
+    width:655px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../Rezultat_-_poisk_po_kompanii_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:529px;
+    top:109px;
+    width:236px;
+    height:44px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:242px;
+    height:50px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:232px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../Rezultat_-_poisk_po_kompanii_files/u7_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:775px;
+    top:109px;
+    width:236px;
+    height:44px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:242px;
+    height:50px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:232px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../Rezultat_-_poisk_po_kompanii_files/u7_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:283px;
+    top:109px;
+    width:236px;
+    height:44px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:242px;
+    height:50px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:232px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:60px;
+    top:204px;
+    width:494px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../Rezultat_-_poisk_po_kompanii_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:60px;
+    top:182px;
+    width:801px;
+    height:61px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:807px;
+    height:67px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:21px;
+    width:797px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../Rezultat_-_poisk_po_kompanii_files/u16_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:60px;
+    top:314px;
+    width:1088px;
+    height:171px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1094px;
+    height:177px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:78px;
+    width:1084px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:362px;
+    top:282px;
+    width:262px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../Rezultat_-_poisk_po_kompanii_files/u19_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:60px;
+    top:273px;
+    width:214px;
+    height:42px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:220px;
+    height:48px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:210px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../Rezultat_-_poisk_po_kompanii_files/u21_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:294px;
+    top:271px;
+    width:214px;
+    height:42px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:220px;
+    height:48px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:210px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u23 {
+    position:absolute;
+    left:96px;
+    top:350px;
+    width:899px;
+    height:113px
+}
+
+.u24_normal {
+    background-image: url('../Rezultat_-_poisk_po_kompanii_files/u24_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:150px;
+    height:36px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:42px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_normal {
+    background-image: url('../Rezultat_-_poisk_po_kompanii_files/u26_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:150px;
+    top:0px;
+    width:560px;
+    height:36px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:566px;
+    height:42px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:556px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../Rezultat_-_poisk_po_kompanii_files/u28_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:710px;
+    top:0px;
+    width:184px;
+    height:36px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:190px;
+    height:42px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:180px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../Rezultat_-_poisk_po_kompanii_files/u30_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:0px;
+    top:36px;
+    width:150px;
+    height:72px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:78px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:33px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_normal {
+    background-image: url('../Rezultat_-_poisk_po_kompanii_files/u32_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:150px;
+    top:36px;
+    width:560px;
+    height:72px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:566px;
+    height:78px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:556px;
+    height:50px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_normal {
+    background-image: url('../Rezultat_-_poisk_po_kompanii_files/u34_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:710px;
+    top:36px;
+    width:184px;
+    height:72px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:190px;
+    height:78px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:180px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36 {
+    position:absolute;
+    left:1017px;
+    top:385px;
+    width:28px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 16px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u37 {
+    position:absolute;
+    left:1056px;
+    top:385px;
+    width:28px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 16px;
+    color:#000000;
+    font-style:normal;
+    font-weight:bold;
+    text-decoration:none;
+    
+}
+
+.u38_normal {
+    background-image: url('../Rezultat_-_poisk_po_kompanii_files/u21_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:529px;
+    top:271px;
+    width:214px;
+    height:42px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:220px;
+    height:48px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:210px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../Rezultat_-_poisk_po_kompanii_files/u21_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:763px;
+    top:272px;
+    width:214px;
+    height:42px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:220px;
+    height:48px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:210px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
